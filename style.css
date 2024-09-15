@@ -1,0 +1,76 @@
+header {
+    background-color: black;
+    font-size: 1em;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbZvvjk1N-JUhl_8P7iPnYxskc0VCAR5azKg&s');
+    background-position: 20%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 150px;
+}
+
+body {
+    background: black;
+}
+
+.menu:hover {
+    display: flex;
+    
+}
+
+h2 {
+    display: flex;
+    justify-content: center;    
+}
+
+.intro {
+    align-items: center;
+    margin-left: 150px;
+    margin-right: 150px;
+    color: white;
+}
+
+.personel {
+    display: flex;
+}
+
+.enemyContainer {
+    
+    display: flex;
+    flex-direction: column;
+    background-image: url('https://halo.wiki.gallery/images/thumb/f/f7/HLC_Crate12_Poster.png/1200px-HLC_Crate12_Poster.png');
+    background-position: center;
+}
+
+
+.alliesContainer {
+    
+    display: flex;
+    flex-direction: column;
+    background-image: url('https://preview.redd.it/6thlyhb1jo361.png?width=640&crop=smart&auto=webp&s=caf4492ba4982b24929d030061d6dcb277338fe8');
+    background-position: center;
+}
+
+.story {
+    color: white;
+}
+
+.lore {
+    margin-right: 50px;
+    padding-right: 75px;
+    margin-left: 50px;
+    padding-left: 75px;
+}
+
+h3 {
+    padding-left: 200px;
+}
+
+.bottom {
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+
+
+
